@@ -1,5 +1,5 @@
 this is 1.txt
-upade
+update
 line one
 line 2
 line three
